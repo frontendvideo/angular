@@ -119,6 +119,13 @@ div {
   padding: 20px;
 }
 
+input[type="text"] {
+  width: 90%;
+  margin-bottom: 20px;
+  height: 25px;
+  font-size: 22px;
+}
+
 textarea {
   width: 90%;
   height: 250px;
