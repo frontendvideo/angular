@@ -5,6 +5,5 @@ import {Component} from '@angular/core';
   templateUrl: 'src/home/home.html'
 })
 export class HomeComponent {
-  contentHighlighted: boolean = false;
-  disableHighlighting: boolean = false;
+  count: number = 0;
 }
