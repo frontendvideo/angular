@@ -1,0 +1,17 @@
+article {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+select {
+  margin: 20px 0;
+}
+
+p span{
+  font-weight: bold;
+}
+
+p b{
+  color: #800000;
+}

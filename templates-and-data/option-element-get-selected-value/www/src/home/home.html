@@ -1,0 +1,11 @@
+<article>
+    <p><span>Select a day:</span></p>
+    <select (change)="selectChangeHandler($event)">
+        <option value="Monday">Monday</option>
+        <option value="Tuesday">Tuesday</option>
+        <option value="Wednesday">Wednesday</option>
+        <option value="Thursday">Thursday</option>
+        <option value="Friday">Friday</option>
+    </select>
+    <p><span>You selected: </span><b>{{selectedDay}}</b></p>
+</article>
