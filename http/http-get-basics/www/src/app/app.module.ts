@@ -4,8 +4,6 @@ import {BrowserModule} from '@angular/platform-browser';
 import {Http, HttpModule, BaseRequestOptions} from '@angular/http';
 import {AppComponent} from './app.component';
 import {HomeComponent} from '../home/home.component';
-import {AboutComponent} from '../about/about.component';
-import {PackagesComponent} from '../packages/packages.component';
 import {LocationStrategy, HashLocationStrategy} from '@angular/common';
 import {routing} from './routes';
 
@@ -18,9 +16,7 @@ import {routing} from './routes';
   imports: [BrowserModule, HttpModule, routing],
   declarations: [
     AppComponent,
-    HomeComponent,
-    AboutComponent,
-    PackagesComponent
+    HomeComponent
   ],
   bootstrap: [AppComponent]
 })
