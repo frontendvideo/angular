@@ -1,7 +1,7 @@
-[![Angular Logo](https://www.frontendvideo.org/wp-content/uploads/angular-logo-200-200x160.png)](https://www.frontendvideo.org/angular/starter-project-with-basic-routing/)
+[![Angular Logo](https://www.frontendvideo.org/wp-content/uploads/angular-logo-200-200x160.png)](https://www.frontendvideo.org/angular/routing-basics/)
 
-# Angular
-Code examples for the post: https://www.frontendvideo.org/angular/starter-project-with-basic-routing/
+# Angular Routing Basics
+Code examples for the post: https://www.frontendvideo.org/angular/routing-basics/
 
 # How to run the example code:
 
