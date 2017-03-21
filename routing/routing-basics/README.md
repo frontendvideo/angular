@@ -1,7 +1,7 @@
-[![Angular Logo](https://www.frontendvideo.org/wp-content/uploads/angular-logo-200-200x160.png)](https://www.frontendvideo.org/angular/http-get/)
+[![Angular Logo](https://www.frontendvideo.org/wp-content/uploads/angular-logo-200-200x160.png)](https://www.frontendvideo.org/angular/starter-project-with-basic-routing/)
 
 # Angular
-Code examples for the post: https://www.frontendvideo.org/angular/http-get/
+Code examples for the post: https://www.frontendvideo.org/angular/starter-project-with-basic-routing/
 
 # How to run the example code:
 
@@ -13,7 +13,7 @@ git clone https://github.com/frontendvideo/angular.git
 ##  2 - Go to this folder in your terminal:
 
 ```
-http/http-get-basics
+routing/routing-basics
 ```
 
 ## 3 - Install dependencies:
