@@ -10,7 +10,11 @@ Code examples for the post: https://www.frontendvideo.org/angular/http-get/
 ```
 git clone https://github.com/frontendvideo/angular.git
 ```
-##  2 - Go to this folder in your terminal: **http/http-get-basics**
+##  2 - Go to this folder in your terminal:
+
+```
+http/http-get-basics
+```
 
 ## 3 - Install dependencies:
 
